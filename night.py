@@ -51,3 +51,6 @@ if st.button("Check Similarity"):
 if st.sidebar.button("EDA", key="eda_sidebar_button"):
     subprocess.Popen(["streamlit", "run", "dashboard.py"])
     
+
+
+
